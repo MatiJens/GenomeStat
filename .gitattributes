@@ -1,0 +1,10 @@
+# Pliki tekstowe zawsze z LF
+*.py text eol=lf
+*.txt text eol=lf
+*.md text eol=lf
+*.fasta text eol=lf
+*.xml text eol=lf
+
+# Pliki binarne bez konwersji
+*.gz binary
+*.png binary

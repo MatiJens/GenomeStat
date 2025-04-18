@@ -1,0 +1,15 @@
+# PyCharm/JetBrains
+.idea/
+*.iml
+
+# Środowisko wirtualne
+venv/
+__pycache__/
+
+# Pliki z kluczami
+.env
+*.env
+
+# Lokalne dane
+data/# created by virtualenv automatically
+.venv/Lib
